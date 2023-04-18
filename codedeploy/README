@@ -12,3 +12,5 @@ chmod +x ./install
 Open terminal 
 Mkdir codedeploy
 Cd codedeploy
+
+Switching to Develop Branch
